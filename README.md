@@ -55,7 +55,9 @@ npm install
 npm run dev
 ```
 
-Make sure the server is running at http://localhost:3000. 3. Run the Tests:
+Make sure the server is running at http://localhost:3000.
+
+3. Run the Tests:
 
 ```bash
 npx playwright test
