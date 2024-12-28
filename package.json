@@ -1,0 +1,40 @@
+{
+   "name": "premia-coding-challenge",
+   "version": "0.1.0",
+   "private": true,
+   "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "prettier": "prettier --write \"**/*.{ts,tsx,js}\"",
+      "lint": "next lint --fix"
+   },
+   "dependencies": {
+      "@rainbow-me/rainbowkit": "2.0.5",
+      "@tanstack/react-query": "5.32.0",
+      "@tenkeylabs/dappwright": "^2.9.1",
+      "next": "14.2.3",
+      "react": "18.3.0",
+      "react-dom": "18.3.0",
+      "react-jazzicon": "1.0.4",
+      "viem": "2.9.27",
+      "wagmi": "2.5.22"
+   },
+   "devDependencies": {
+      "@playwright/test": "^1.49.1",
+      "@types/node": "20.12.7",
+      "@types/react": "18.3.0",
+      "@types/react-dom": "18.3.0",
+      "@typescript-eslint/eslint-plugin": "6.21.0",
+      "@typescript-eslint/parser": "6.21.0",
+      "eslint": "8.57.0",
+      "eslint-config-next": "14.2.3",
+      "eslint-config-prettier": "9.1.0",
+      "eslint-import-resolver-typescript": "3.6.1",
+      "eslint-plugin-import": "2.29.1",
+      "eslint-plugin-prettier": "5.1.3",
+      "playwright": "^1.49.1",
+      "prettier": "3.2.5",
+      "typescript": "5.4.5"
+   }
+}

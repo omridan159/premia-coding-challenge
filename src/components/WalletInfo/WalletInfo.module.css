@@ -1,0 +1,15 @@
+.info {
+   text-align: center;
+   background-color: #f5f5f5;
+   padding: 20px;
+   border-radius: 10px;
+   width: 100%;
+   max-width: 500px;
+}
+
+.mono {
+   background-color: #e0e0e0;
+   padding: 4px 8px;
+   border-radius: 4px;
+   word-break: break-all;
+}
